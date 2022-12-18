@@ -1,16 +1,10 @@
-# mysample
+# AnimatedList - Iker Iparraguirre
 
-A new Flutter project.
+Ejemplo de AnimatedList.
+![](demo.PNG)
+Como se puede observar en la imagen esta es la aplicacion de ejemplo que he creado para mostrar el funcionamiento de AnimatedList. <br>
+Al ejecutar, se muetra un elemento ya creado, pulsando sobre el boton "+" se crean nuevos elementos con el nombre "Elemento Nº " + el numero de elemento. <br>
+Si pulsamos sobre un elemento se podra observar que cambia el color del texto a verde y que a la derecha cambia el mensaje "Elemento seleccionado: " al elemento seleccionado. <br>
+Para eliminar un elemento habra que seleccionar el elemento y despues pulsar sobre el boton de "-".
+## [Repositorio de GitHub](https://github.com/ikeriparraguirre/widget_AnimatedList)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
